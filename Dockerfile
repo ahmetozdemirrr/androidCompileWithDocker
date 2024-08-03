@@ -4,9 +4,6 @@
 # It includes essential tools for compiling and testing Android applications.
 #
 # Written by: Ahmet ÖZDEMİR
-# Ahmet ÖZDEMİR is a 4th-year student at Gebze Technical University with expertise in 
-# artificial intelligence, machine learning for smart assistants, system programming, 
-# Android development, and interpreter design.
 #
 # 03.08.2024
 
